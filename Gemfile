@@ -40,4 +40,7 @@ gem 'spring',        group: :development
 
 gem 'devise'
 gem 'pry-byebug'
+gem 'annotate'
+gem 'pry-byebug'
 # comment from authentication branch
+# comment from master branch
