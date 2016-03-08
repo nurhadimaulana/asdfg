@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'pry-byebug'
 gem 'annotate'
+gem 'nprogress-rails'
