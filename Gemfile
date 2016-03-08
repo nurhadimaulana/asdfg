@@ -41,3 +41,6 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'pry-byebug'
 gem 'annotate'
+gem 'nprogress-rails'
+gem 'better_errors'
+gem 'binding_of_caller'
