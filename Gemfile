@@ -39,6 +39,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise'
-gem 'annotate'
 gem 'pry-byebug'
+gem 'annotate'
+# comment from authentication branch
 # comment from master branch
